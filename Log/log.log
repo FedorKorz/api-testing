@@ -1,0 +1,678 @@
+2023-04-29 20:38:57 DEBUG - Get settings from: settings.json
+2023-04-29 20:39:20 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:20 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:20 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:20 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:22 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:22 INFO - Closing browser
+2023-04-29 20:39:23 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:23 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:23 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:23 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:24 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:24 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:39:25 INFO - Closing browser
+2023-04-29 20:39:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:27 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:27 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:39:28 INFO - Closing browser
+2023-04-29 20:39:28 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:28 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:28 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:30 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:30 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:39:32 INFO - Closing browser
+2023-04-29 20:39:32 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:32 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:32 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:32 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:33 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:33 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:39:34 INFO - Closing browser
+2023-04-29 20:39:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:39:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:39:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:39:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:39:36 INFO - Browser 'Chrome' ready...
+2023-04-29 20:39:36 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:39:38 INFO - Closing browser
+2023-04-29 20:40:10 DEBUG - Get settings from: settings.json
+2023-04-29 20:40:11 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:11 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:11 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:11 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:12 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:12 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:13 INFO - Closing browser
+2023-04-29 20:40:14 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:14 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:14 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:14 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:15 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:15 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:16 INFO - Closing browser
+2023-04-29 20:40:16 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:16 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:16 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:16 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:18 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:18 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:19 INFO - Closing browser
+2023-04-29 20:40:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:21 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:21 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:22 INFO - Closing browser
+2023-04-29 20:40:22 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:22 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:22 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:22 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:23 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:23 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:25 INFO - Closing browser
+2023-04-29 20:40:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:40:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:40:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:40:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:40:27 INFO - Browser 'Chrome' ready...
+2023-04-29 20:40:27 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:40:28 INFO - Closing browser
+2023-04-29 20:45:13 DEBUG - Get settings from: settings.json
+2023-04-29 20:45:13 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:13 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:13 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:13 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:15 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:15 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:17 INFO - Closing browser
+2023-04-29 20:45:17 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:17 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:17 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:17 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:19 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:19 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:20 INFO - Closing browser
+2023-04-29 20:45:20 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:20 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:20 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:20 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:22 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:22 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:24 INFO - Closing browser
+2023-04-29 20:45:24 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:24 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:24 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:24 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:26 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:26 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:29 INFO - Closing browser
+2023-04-29 20:45:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:31 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:31 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:33 INFO - Closing browser
+2023-04-29 20:45:33 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:45:33 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:45:33 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:45:33 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:45:35 INFO - Browser 'Chrome' ready...
+2023-04-29 20:45:35 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:45:37 INFO - Closing browser
+2023-04-29 20:50:20 DEBUG - Get settings from: settings.json
+2023-04-29 20:50:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:22 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:23 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:24 INFO - Closing browser
+2023-04-29 20:50:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:26 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:26 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:27 INFO - Closing browser
+2023-04-29 20:50:28 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:28 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:28 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:29 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:29 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:30 INFO - Closing browser
+2023-04-29 20:50:31 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:31 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:31 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:31 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:33 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:33 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:34 INFO - Closing browser
+2023-04-29 20:50:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:36 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:36 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:37 INFO - Closing browser
+2023-04-29 20:50:37 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 20:50:37 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 20:50:37 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 20:50:37 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 20:50:38 INFO - Browser 'Chrome' ready...
+2023-04-29 20:50:38 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 20:50:40 INFO - Closing browser
+2023-04-29 21:20:24 DEBUG - Get settings from: settings.json
+2023-04-29 21:20:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:26 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:27 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:28 INFO - Closing browser
+2023-04-29 21:20:28 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:28 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:28 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:30 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:30 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:31 INFO - Closing browser
+2023-04-29 21:20:31 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:31 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:31 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:31 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:33 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:33 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:34 INFO - Closing browser
+2023-04-29 21:20:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:35 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:35 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:36 INFO - Closing browser
+2023-04-29 21:20:36 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:36 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:36 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:36 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:38 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:38 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:39 INFO - Closing browser
+2023-04-29 21:20:39 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:20:39 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:20:39 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:20:39 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:20:40 INFO - Browser 'Chrome' ready...
+2023-04-29 21:20:40 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:20:42 INFO - Closing browser
+2023-04-29 21:22:44 DEBUG - Get settings from: settings.json
+2023-04-29 21:22:44 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:44 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:44 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:44 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:22:45 INFO - Browser 'Chrome' ready...
+2023-04-29 21:22:46 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:22:47 INFO - Closing browser
+2023-04-29 21:22:47 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:47 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:47 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:47 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:22:49 INFO - Browser 'Chrome' ready...
+2023-04-29 21:22:49 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:22:50 INFO - Closing browser
+2023-04-29 21:22:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:50 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:22:52 INFO - Browser 'Chrome' ready...
+2023-04-29 21:22:52 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:22:53 INFO - Closing browser
+2023-04-29 21:22:53 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:53 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:53 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:53 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:22:55 INFO - Browser 'Chrome' ready...
+2023-04-29 21:22:55 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:22:56 INFO - Closing browser
+2023-04-29 21:22:56 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:56 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:56 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:56 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:22:57 INFO - Browser 'Chrome' ready...
+2023-04-29 21:22:57 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:22:58 INFO - Closing browser
+2023-04-29 21:22:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:22:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:22:58 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:22:58 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:23:00 INFO - Browser 'Chrome' ready...
+2023-04-29 21:23:00 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:23:01 INFO - Closing browser
+2023-04-29 21:32:07 DEBUG - Get settings from: settings.json
+2023-04-29 21:32:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:08 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:08 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:10 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:10 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:13 INFO - Closing browser
+2023-04-29 21:32:14 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:14 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:14 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:14 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:15 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:15 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:18 INFO - Closing browser
+2023-04-29 21:32:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:20 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:20 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:24 INFO - Closing browser
+2023-04-29 21:32:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:27 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:27 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:29 INFO - Closing browser
+2023-04-29 21:32:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:31 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:31 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:33 INFO - Closing browser
+2023-04-29 21:32:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-04-29 21:32:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-04-29 21:32:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-04-29 21:32:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-04-29 21:32:36 INFO - Browser 'Chrome' ready...
+2023-04-29 21:32:36 INFO - Navigate to URL - 'https://jsonplaceholder.typicode.com'
+2023-04-29 21:32:38 INFO - Closing browser
